@@ -16,6 +16,25 @@ This repository contains experiment recordings and result data of three differen
 - Consider starting by reading files in [Documents](docs/).
 ---
 
+## Results and Findings
+
+The performance of 
+
+| ID | Experiment | Pickup Success  | Transport Success | Dropoff Success | Optional Notes |
+| -- | -------- | ------ | ----------------- | -------------- | --------|
+| g_0  | 0 | 10 | 10 | 10 |         |
+| g_0  | 1 | 10 | 10 | 10 |         |
+| g_0  | 2 | 10 | 10 | 10 |         |
+| g_1  | 0 | 10 | 10 | 10 |         |
+| g_1  | 1 | 10 | 10 | 10 |         |
+| g_1  | 2 | 10 | 10 | 10 |         |
+| g_2  | 0 | 10 | 10 | 10 |         |
+| g_2  | 1 | 10 | 10 | 10 |         |
+| g_2  | 2 | 10 | 10 | 10 |         |
+
+*Note: Each experiment is run 10 times.*
+
+All three end effector designs displayed high success rate of picking up and transporting the orthopedic plates. See Figure (TODO) for details.
 ## Repository Structure
 
 ```text
