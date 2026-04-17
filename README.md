@@ -1,4 +1,4 @@
-# end_effector_function_test
+# [end_effector_function_test](https://github.com/adammazechen/end_effector_function_test.git)
 
 
 This repository contains experiment recordings and result data of three different gripper designs for grasping orthopedic plates.
